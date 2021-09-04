@@ -1,4 +1,4 @@
-# JavaScript - Countdown
+# JavaScript - Countdown Timer
 
 ## Getting Started:
 
