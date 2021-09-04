@@ -1,4 +1,4 @@
-# Capstone Project - NCST Forms
+# JavaScript - Countdown
 
 ## Getting Started:
 
